@@ -1,0 +1,90 @@
+let car="subaru";
+if(car=='subaru'||car=='SUBARU')
+{
+    console.log("TRUE");
+}
+else
+{
+    console.log("FALSE")
+}
+ car="mercedes";
+ if(car=='subaru'||car=='SUBARU')
+ {
+     console.log("TRUE");
+ }
+ else
+ {
+     console.log("FALSE")
+ }
+car="subaru";
+if(car=='subaru'||car=='SUBARU')
+{
+    console.log("TRUE");
+}
+else
+{
+    console.log("FALSE")
+}
+car="ferrari";
+if(car=='subaru'||car=='SUBARU')
+{
+    console.log("TRUE");
+}
+else
+{
+    console.log("FALSE")
+}
+car="alto";
+ if(car=='subaru'||car=='SUBARU')
+{
+    console.log("TRUE");
+}
+else
+{
+    console.log("FALSE")
+}
+car='subaru';
+if(car=='subaru'||car=='SUBARU')
+{
+    console.log("TRUE");
+}
+else
+{
+    console.log("FALSE")
+}
+ car="subaru";
+if(car=='subaru'||car=='SUBARU')
+{
+    console.log("TRUE");
+}
+else
+{
+    console.log("FALSE")
+}
+ car="mercedes";
+ if(car=='subaru'||car=='SUBARU')
+ {
+     console.log("TRUE");
+ }
+ else
+ {
+     console.log("FALSE")
+ }
+car="subaru";
+if(car=='subaru'||car=='SUBARU')
+{
+    console.log("TRUE");
+}
+else
+{
+    console.log("FALSE")
+}
+car="ferrari";
+if(car=='subaru'||car=='SUBARU')
+{
+    console.log("TRUE");
+}
+else
+{
+    console.log("FALSE")
+}
